@@ -1,7 +1,7 @@
 # 🥬Sharvet Project
 ### - Vegetables you share will save the Earth.
 ### - Team MEG
-[Songgyeong Oh](https://github.com/Orka3/), [Moon]
+[Songgyeong Oh](https://github.com/Orka3/), [YiHyun Moon](https://github.com/MOON-Y-H)
 
 <p align="center">
   <img width="30%" alt="sharvet" src="https://user-images.githubusercontent.com/100416968/160620865-ce075998-5a70-4cd1-8720-6e1bf38e1faa.PNG">
