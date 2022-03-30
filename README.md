@@ -8,7 +8,8 @@
 </p>
 
 ## 📢How to Install?
-1. <a id="raw-url" href="https://raw.githubusercontent.com/Orka3/Solution-Challenge-2022-Sharvet/master/app-release.apk">Download APK</a>
+1. <a id="raw-url" href="https://raw.githubusercontent.com/Orka3/Solution-Challenge-2022-Sharvet/master/app-release.apk">Download APK</a> and Open apk in Android Studio or Android phone.
+2. git clone and install flutter, connet the emulator or android phone, run it.
 ## 💡Outline
 ### 1) Project Outline
 Sharvet is the app that contributes to reducing carbon footprints by exchanging food waste into sustainable resources.
@@ -82,7 +83,7 @@ Farmer should click the button to complete the reservation.
 
 #### 4. Farmer, Giver- Tracking Information
 <p align="middle">
-   <img width="200" height="370" alt="sharvet" src="https://user-images.githubusercontent.com/100416968/160740780-ad4dbde3-d0fa-49fb-a87d-1859084754ac.png">
+   <img width="200" height="330" alt="sharvet" src="https://user-images.githubusercontent.com/100416968/160740780-ad4dbde3-d0fa-49fb-a87d-1859084754ac.png">
 </p>
 Farmer and Giver can see their reservation in the tracking information tab.
 There are basic information of reservation and reservation state.
