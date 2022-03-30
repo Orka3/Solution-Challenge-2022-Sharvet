@@ -53,32 +53,69 @@ Copyright © 2010-2022 Freepik Company S.L.
 ## 💡Detail Function
 ### Intention of the plan.
 #### 1. Sign up & Sign in
+<p align="middle">
+  <img src="https://user-images.githubusercontent.com/100416968/160740394-d3a26eb0-7572-4c3a-bd65-c6fce18fbafd.png" width="200" height="370">
+  <img width="200" height="370" alt="sharvet" src="https://user-images.githubusercontent.com/100416968/160740403-30ce3279-9729-4ab7-9ab5-7984144d0202.png">
+  <img width="200" height="370" alt="sharvet" src="https://user-images.githubusercontent.com/100416968/160740408-5b4e4d86-07a5-49ba-82e7-9463e81b88ce.png">
+</p>  
 Sharvet has to log in to start, and user have to choose the job between farmer and giver.
 We used Firebase authentication to implement function.
 
 #### 2. Giver- Posting the Reservation
+<p align="middle">
+    <img width="200" height="370" alt="sharvet" src="https://user-images.githubusercontent.com/100416968/160740504-eafe45f2-7d31-4775-82f1-914d0a3cff10.png">
+    <img width="200" height="370" alt="sharvet" src="https://user-images.githubusercontent.com/100416968/160740516-9dbc2f45-831e-4486-beb6-2aa723d87a53.png">
+    <img width="200" height="370" alt="sharvet" src="https://user-images.githubusercontent.com/100416968/160740525-4383cd74-53e2-42c3-87e7-15c0a453e621.png">
+    <img width="200" height="370" alt="sharvet" src="https://user-images.githubusercontent.com/100416968/160740543-dcfb9ff3-5541-4c8c-b7c6-b97c80f5c190.png">
+</p>
 For the connection between farmer and giver, giver has to post the reservation.
 In the posting, basic information about giver, the date that giver can give vegetables, amount and sort of the vegetables, possible delivery area and p.s. should be written.
 
 #### 3. Farmer- Make a Reservation
+<p align="middle">
+   <img width="200" height="370" alt="sharvet" src="https://user-images.githubusercontent.com/100416968/160740741-6fbce868-63b6-4565-b504-2383331e3170.png">
+ <img width="200" height="370" alt="sharvet" src="https://user-images.githubusercontent.com/100416968/160740753-2d791bdb-060a-4fcb-9233-8677ee08b9b6.png">
+ <img width="200" height="370" alt="sharvet" src="https://user-images.githubusercontent.com/100416968/160740764-83258c3c-61bb-4fc9-a467-51bf068cc5c4.png">
+</p>
 Farmer can see the giver's posting lists, and the detail of them.
 Farmer should click the button to complete the reservation.
+
 #### 4. Farmer, Giver- Tracking Information
+<p align="middle">
+   <img width="200" height="370" alt="sharvet" src="https://user-images.githubusercontent.com/100416968/160740780-ad4dbde3-d0fa-49fb-a87d-1859084754ac.png">
+</p>
 Farmer and Giver can see their reservation in the tracking information tab.
 There are basic information of reservation and reservation state.
+
 #### 5. Giver - Change the Reservation State
+<p align="middle">
+ <img width="200" height="330" alt="sharvet" src="https://user-images.githubusercontent.com/100416968/160740602-70a52864-caae-4299-a269-ba6e0ea89036.png">
+</p>
 Giver should change the reserevation state according to the delivery process. 
 There are 'Checked, In transit, Delivered' states.
 The reservation state will be sended to farmer.
+
 #### 6. Farmer - Get Livestock Information
+<p align="middle">
+ <img width="200" height="330" alt="sharvet" src="https://user-images.githubusercontent.com/100416968/160740789-18d7f37e-be98-45ec-87eb-a16f19838aca.png">
+</p>
 The Information necessary for ranch management is provided to Farmer, using the Open api provided by the Korea Livestock Science Institute.
 For example, real-time livestock heat index forecast and real-time livestock price will be provided.
-####7. Giver - Benefit of using Sharvet
+
+#### 7. Giver - Benefit of using Sharvet
+<p align="middle">
+ <img width="200" height="330" alt="sharvet" src="https://user-images.githubusercontent.com/100416968/160740641-72b71a2b-9261-4abf-a943-c4e065ca76eb.png">
+</p>
 In rank tab, giver can see their own ranks and benefits.
 Each time a reservation is completely delivered, the mileage increases
 The rank is determined according to the accumulated mileage.
 The benefits are different for each rank.
+
 #### 8. Farmer, Giver - Profile tab
+<p align="middle">
+  <img width="200" height="370" alt="sharvet" src="https://user-images.githubusercontent.com/100416968/160740696-3529efdf-03e2-47d8-86a3-cb90eb387531.png">
+  <img width="200" height="370" alt="sharvet" src="https://user-images.githubusercontent.com/100416968/160740801-634fb5cf-2c3e-4a8c-9a51-f807d4be500e.png">
+</p>
 User can see and edit their own profile.
 They can also view the completed history.
 
