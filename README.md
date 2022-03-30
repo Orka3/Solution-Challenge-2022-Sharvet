@@ -132,14 +132,17 @@ Implementation of consumer-side apps for customer who used giver’s and farmer�
 They can see the ranking and transactions of giver and farmer that contribute to the environment.
 This encourages companies to donate harder for publicity. 
 At the same time, encouraging consumers to pay attention to the environment.
+
 2. Formation of partnership 
 MOU with Ministry of Environment or hypermarket to ensure popularity.
 ```
 ### 2) Expectation Effectiveness
 ```
 1. Reduce environmental pollution caused by food waste.
+
 2. Providing educational opportunities and Improving ranch management skills,
 By making easier for elderly farmers, who are digitally marginalized, to access livestock information.
+
 3. Encouraging farmers, companies, consumers to pay attention to the environment.
 ```
 ### Expanding into applications that contribute to reducing greenhouse gas emissions by exchanging food waste into sustainable resources in cooperation with farmers and businesses
