@@ -8,7 +8,7 @@
 </p>
 
 ## 📢How to Install?
-1. <a id="raw-url" href="https://raw.githubusercontent.com/github-username/project/master/filename">Download APK</a>
+1. <a id="raw-url" href="https://raw.githubusercontent.com/Orka3/Solution-Challenge-2022-Sharvet/master/app-release.apk">Download APK</a>
 ## 💡Outline
 ### 1) Project Outline
 Sharvet is the app that contributes to reducing carbon footprints by exchanging food waste into sustainable resources.
